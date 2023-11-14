@@ -1,0 +1,65 @@
+/* body {
+  height: 900px;
+} */
+
+#header {
+  height:138px;
+}
+.pointer {
+  cursor: pointer;
+}
+
+input {
+  outline: none;
+  height:45px;
+}
+
+#login-form {
+  width:480px;
+}
+
+#login-form-top > div {
+  height: 60px;
+}
+
+#login-logo-image-wrapper {
+  width: 160px;
+  height: 55px;
+}
+
+#login_option {
+  font-size:14px;
+  color:gray;
+}
+
+#btn_login {
+  background-color: #03C75A;
+  height: 55px;
+  color: white;
+  font-size: large;
+}
+
+#other_option {
+  font-size: small;
+  color: gray;
+}
+
+#advertisement {
+  width: 480px;
+}
+
+#guide {
+  font-size: small;
+  color: gray;
+}
+
+/* footer */
+#footer {
+  font-size: small;
+  color: gray;
+}
+
+#footer-logo-wrapper {
+  width:80px;
+  height:30px;
+}
